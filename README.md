@@ -26,7 +26,8 @@ print("{:.2f}".format(distance))
 ```
 
 ### OUTPUT:
-![DISTANCE-BETWEEN-TWO-POINTS](pyex3pic.png)
+![Screenshot 2023-03-19 113339](https://user-images.githubusercontent.com/118707090/229995637-11d46933-0cca-4753-a98b-dbd962e6cef7.png)
+
 
 ### RESULT:
 Thus the program to find the distance between two points is successfully executed.
